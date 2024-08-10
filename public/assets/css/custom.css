@@ -1,0 +1,14 @@
+/* Ensure that the demo table scrolls */
+    th { white-space: nowrap; }
+    th.paddress{ min-width: 240px; }
+    th.pbank{ min-width: 120px; }
+    th.ptenure{ min-width: 70px; }
+    th.paction{ min-width: 70px; }
+    td { white-space: wrap; }
+    div.dataTables_wrapper {
+        margin: 0 auto;
+    }
+ 
+    div.container {
+        width: 80%;
+    }

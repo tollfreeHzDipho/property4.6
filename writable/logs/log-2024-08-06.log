@@ -1,0 +1,371 @@
+INFO - 2024-08-06 16:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-06 16:03:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-06 16:03:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:03:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$data is deprecated in APPPATH\Controllers\Login.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:03:07 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Dashboard.php(25): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Dashboard->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:03:10 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:03:10 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-06 16:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-06 16:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:03:21 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:03:21 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:03:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:03:22 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:03:22 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:03:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:03:40 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:03:40 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:03:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:03:43 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:03:44 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:03:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:03:44 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:03:44 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:04:05 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:04:05 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:04:06 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:04:06 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:04:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:04:14 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:04:14 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-06 16:04:14 --> ErrorException: Undefined variable $properties
+[Method: GET, Route: property/details/5]
+in APPPATH\Views\property\details2.php on line 292.
+ 1 APPPATH\Views\property\details2.php(292): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $properties', 'C:\\xampp\\htdocs\\codeignitor4.5\\app\\Views\\property\\details2.php', 292)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeignitor4.5\\app\\Views\\property\\details2.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('property/details2', [], true)
+ 5 APPPATH\Controllers\Property.php(159): view('property/details2', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Property->propertyDetails('5')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Property))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:08:11 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:08:11 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-06 16:08:11 --> ErrorException: Undefined variable $notes
+[Method: GET, Route: property/details/5]
+in APPPATH\Views\property\details2.php on line 146.
+ 1 APPPATH\Views\property\details2.php(146): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $notes', 'C:\\xampp\\htdocs\\codeignitor4.5\\app\\Views\\property\\details2.php', 146)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeignitor4.5\\app\\Views\\property\\details2.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('property/details2', [], true)
+ 5 APPPATH\Controllers\Property.php(159): view('property/details2', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Property->propertyDetails('5')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Property))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:08:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:08:34 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:08:34 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-06 16:08:34 --> ErrorException: Undefined variable $convnorth
+[Method: GET, Route: property/details/5]
+in APPPATH\Views\property\details2.php on line 212.
+ 1 APPPATH\Views\property\details2.php(212): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $convnorth', 'C:\\xampp\\htdocs\\codeignitor4.5\\app\\Views\\property\\details2.php', 212)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeignitor4.5\\app\\Views\\property\\details2.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('property/details2', [], true)
+ 5 APPPATH\Controllers\Property.php(159): view('property/details2', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Property->propertyDetails('5')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Property))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:13:28 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:13:28 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:21:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:21:10 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:21:10 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:22:07 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:22:07 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:22:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:22:21 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:22:21 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:23:27 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:23:27 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:24:40 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:24:40 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-06 16:24:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-06 16:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-06 16:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-06 16:25:39 --> [DEPRECATED] Creation of dynamic property App\Models\StaffModel::$request is deprecated in APPPATH\Models\StaffModel.php on line 17.
+ 1 APPPATH\Controllers\Property.php(32): App\Models\StaffModel->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-08-06 16:25:40 --> [DEPRECATED] Creation of dynamic property App\Libraries\Helpers::$email is deprecated in APPPATH\Libraries\Helpers.php on line 15.
+ 1 APPPATH\Controllers\Property.php(34): App\Libraries\Helpers->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Property->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
